@@ -1,0 +1,2857 @@
+{
+	"dir": "1",
+	"angebote": {
+		"0": {
+			"sel": false,
+			"t": "TCK#2660#2670#0#0#S2#2990#",
+			"c": "S2",
+			"p": "29,90",
+			"tt": "SP",
+			"zb": "Y",
+			"arq": "N",
+			"ff": "OLT-OBU",
+			"aix": "0",
+			"sids": [
+				"44"
+			],
+			"risids": [],
+			"pky": "72660",
+			"angnm": "72660",
+			"kotxt": "72660",
+			"ueid": "4",
+			"uepr1": "1900",
+			"uepr2": "$2",
+			"uepr3": "$2",
+			"uentg": "0"
+		},
+		"1": {
+			"sel": false,
+			"t": "TCK#2660#2668#0#0#S2#4590#",
+			"c": "S2",
+			"p": "45,90",
+			"tt": "SP",
+			"zb": "Y",
+			"arq": "N",
+			"ff": "OLT-OBU",
+			"aix": "1",
+			"sids": [
+				"41"
+			],
+			"risids": [],
+			"pky": "72660",
+			"angnm": "72660",
+			"kotxt": "72660",
+			"ueid": "4",
+			"uepr1": "1900",
+			"uepr2": "$2",
+			"uepr3": "$2",
+			"uentg": "0"
+		},
+		"2": {
+			"sel": false,
+			"t": "TCK#2660#2667#0#0#S2#5190#",
+			"c": "S2",
+			"p": "51,90",
+			"tt": "SP",
+			"zb": "Y",
+			"arq": "N",
+			"ff": "OLT-OBU",
+			"aix": "2",
+			"sids": [
+				"28"
+			],
+			"risids": [],
+			"pky": "72660",
+			"angnm": "72660",
+			"kotxt": "72660",
+			"ueid": "4",
+			"uepr1": "1900",
+			"uepr2": "$2",
+			"uepr3": "$2",
+			"uentg": "0"
+		},
+		"3": {
+			"sel": false,
+			"t": "TCK#2660#2665#0#0#S2#5990#",
+			"c": "S2",
+			"p": "59,90",
+			"tt": "SP",
+			"zb": "Y",
+			"arq": "N",
+			"ff": "OLT-OBU",
+			"aix": "3",
+			"sids": [
+				"39"
+			],
+			"risids": [],
+			"pky": "72660",
+			"angnm": "72660",
+			"kotxt": "72660",
+			"ueid": "4",
+			"uepr1": "1900",
+			"uepr2": "$2",
+			"uepr3": "$2",
+			"uentg": "0"
+		},
+		"4": {
+			"sel": false,
+			"t": "TCK#2660#2665#0#0#S2#6790#",
+			"c": "S2",
+			"p": "67,90",
+			"tt": "SP",
+			"zb": "Y",
+			"arq": "N",
+			"ff": "OLT-OBU",
+			"aix": "4",
+			"sids": [
+				"2",
+				"5",
+				"34",
+				"40",
+				"42"
+			],
+			"risids": [],
+			"pky": "72660",
+			"angnm": "72660",
+			"kotxt": "72660",
+			"ueid": "4",
+			"uepr1": "1900",
+			"uepr2": "$2",
+			"uepr3": "$2",
+			"uentg": "0"
+		},
+		"5": {
+			"sel": false,
+			"t": "TCK#2660#2664#0#0#S2#7990#",
+			"c": "S2",
+			"p": "79,90",
+			"tt": "SP",
+			"zb": "Y",
+			"arq": "N",
+			"ff": "OLT-OBU",
+			"aix": "5",
+			"sids": [
+				"0",
+				"36",
+				"38",
+				"45"
+			],
+			"risids": [],
+			"pky": "72660",
+			"angnm": "72660",
+			"kotxt": "72660",
+			"ueid": "4",
+			"uepr1": "1900",
+			"uepr2": "$2",
+			"uepr3": "$2",
+			"uentg": "0"
+		},
+		"6": {
+			"sel": false,
+			"t": "TCK#2660#2663#0#0#S2#8990#",
+			"c": "S2",
+			"p": "89,90",
+			"tt": "SP",
+			"zb": "Y",
+			"arq": "N",
+			"ff": "OLT-OBU",
+			"aix": "6",
+			"sids": [
+				"3",
+				"4",
+				"8",
+				"14",
+				"20",
+				"25",
+				"26",
+				"31",
+				"33"
+			],
+			"risids": [],
+			"pky": "72660",
+			"angnm": "72660",
+			"kotxt": "72660",
+			"ueid": "4",
+			"uepr1": "1900",
+			"uepr2": "$2",
+			"uepr3": "$2",
+			"uentg": "0"
+		},
+		"7": {
+			"sel": false,
+			"t": "TCK#2660#2662#0#0#S2#10390#",
+			"c": "S2",
+			"p": "103,90",
+			"tt": "SP",
+			"zb": "Y",
+			"arq": "N",
+			"ff": "OLT-OBU",
+			"aix": "7",
+			"sids": [
+				"1",
+				"6",
+				"7",
+				"10",
+				"12",
+				"13",
+				"15",
+				"18",
+				"21",
+				"23",
+				"24",
+				"27",
+				"29",
+				"30",
+				"32"
+			],
+			"risids": [],
+			"pky": "72660",
+			"angnm": "72660",
+			"kotxt": "72660",
+			"ueid": "4",
+			"uepr1": "1900",
+			"uepr2": "$2",
+			"uepr3": "$2",
+			"uentg": "0"
+		},
+		"8": {
+			"sel": false,
+			"t": "TCK#2660#2661#0#0#S2#12390#",
+			"c": "S2",
+			"p": "123,90",
+			"tt": "SP",
+			"zb": "Y",
+			"arq": "N",
+			"ff": "OLT-OBU",
+			"aix": "8",
+			"sids": [
+				"9",
+				"11",
+				"17",
+				"22"
+			],
+			"risids": [],
+			"pky": "72660",
+			"angnm": "72660",
+			"kotxt": "72660",
+			"ueid": "4",
+			"uepr1": "1900",
+			"uepr2": "$2",
+			"uepr3": "$2",
+			"uentg": "0"
+		},
+		"9": {
+			"sel": false,
+			"t": "TCK#1#0#0#0#S2#12900#",
+			"c": "S2",
+			"p": "129,00",
+			"tt": "NP",
+			"zb": "N",
+			"arq": "N",
+			"ff": "OLT-OBU",
+			"aix": "9",
+			"sids": [
+				"16",
+				"19",
+				"35",
+				"37"
+			],
+			"risids": [],
+			"pky": "7001",
+			"angnm": "7001",
+			"kotxt": "7001",
+			"ueid": "4",
+			"uepr1": "$1",
+			"uepr2": "1900",
+			"uepr3": "1900",
+			"uentg": "0"
+		},
+		"10": {
+			"sel": false,
+			"t": "TCK#1#0#0#0#S2#15000#",
+			"c": "S2",
+			"p": "150,00",
+			"tt": "NP",
+			"zb": "N",
+			"arq": "N",
+			"ff": "OLT-OBU",
+			"aix": "10",
+			"sids": [
+				"43"
+			],
+			"risids": [],
+			"pky": "7001",
+			"angnm": "7001",
+			"kotxt": "7001",
+			"ueid": "4",
+			"uepr1": "$1",
+			"uepr2": "1900",
+			"uepr3": "1900",
+			"uentg": "0"
+		}
+	},
+	"verbindungen": {
+		"22": {
+			"sel": false,
+			"dir": "OUTWARD",
+			"sid": "22",
+			"dt": "26.03.18",
+			"dur": "4:13",
+			"nt": "1",
+			"NZVerb": false,
+			"eg": "ICE",
+			"trains": [
+				{
+					"tid": "22.0",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8000105",
+					"sn": "Frankfurt(Main)Hbf",
+					"d": "8000152",
+					"dn": "Hannover Hbf",
+					"tn": "ICE   74",
+					"eg": "ICE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "13:58",
+						"m": "1522065480000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "16:17",
+						"m": "1522073820000"
+					},
+					"pd": "8",
+					"pa": "7",
+					"rp": false,
+					"re": false,
+					"sp": false
+				},
+				{
+					"tid": "22.1",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8000152",
+					"sn": "Hannover Hbf",
+					"d": "8098160",
+					"dn": "Berlin Hbf (tief)",
+					"tn": "ICE 1051",
+					"eg": "ICE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "16:31",
+						"m": "1522074660000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "18:11",
+						"m": "1522080660000"
+					},
+					"pd": "9",
+					"pa": "5 A - D",
+					"rp": false,
+					"re": false,
+					"sp": false
+				}
+			]
+		},
+		"44": {
+			"sel": false,
+			"dir": "OUTWARD",
+			"sid": "44",
+			"dt": "26.03.18",
+			"dur": "9:11",
+			"nt": "3",
+			"NZVerb": false,
+			"eg": "ICE",
+			"trains": [
+				{
+					"tid": "44.0",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8000105",
+					"sn": "Frankfurt(Main)Hbf",
+					"d": "8010101",
+					"dn": "Erfurt Hbf",
+					"tn": "ICE 1659",
+					"eg": "ICE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "21:19",
+						"m": "1522091940000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "23:38",
+						"m": "1522100280000"
+					},
+					"pd": "6",
+					"pa": "10",
+					"rp": false,
+					"re": false,
+					"sp": false
+				},
+				{
+					"tid": "44.1",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8010101",
+					"sn": "Erfurt Hbf",
+					"d": "8010125",
+					"dn": "Gera Hbf",
+					"tn": "EB 80913",
+					"eg": "EB",
+					"dep": {
+						"d": "26.03.18",
+						"t": "23:50",
+						"m": "1522101000000"
+					},
+					"arr": {
+						"d": "27.03.18",
+						"t": "01:01",
+						"m": "1522105260000"
+					},
+					"pd": "9",
+					"pa": "5a",
+					"rp": false,
+					"re": false,
+					"sp": false
+				},
+				{
+					"tid": "44.2",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8010125",
+					"sn": "Gera Hbf",
+					"d": "8010205",
+					"dn": "Leipzig Hbf",
+					"tn": "EBx80830",
+					"eg": "EBx",
+					"dep": {
+						"d": "27.03.18",
+						"t": "03:50",
+						"m": "1522115400000"
+					},
+					"arr": {
+						"d": "27.03.18",
+						"t": "04:52",
+						"m": "1522119120000"
+					},
+					"pd": "3a",
+					"pa": "6",
+					"rp": false,
+					"re": false,
+					"sp": false
+				},
+				{
+					"tid": "44.3",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8010205",
+					"sn": "Leipzig Hbf",
+					"d": "8098160",
+					"dn": "Berlin Hbf (tief)",
+					"tn": "ICE 1618",
+					"eg": "ICE",
+					"dep": {
+						"d": "27.03.18",
+						"t": "05:08",
+						"m": "1522120080000"
+					},
+					"arr": {
+						"d": "27.03.18",
+						"t": "06:30",
+						"m": "1522125000000"
+					},
+					"pd": "14",
+					"pa": "7",
+					"rp": false,
+					"re": false,
+					"sp": false
+				}
+			]
+		},
+		"23": {
+			"sel": false,
+			"dir": "OUTWARD",
+			"sid": "23",
+			"dt": "26.03.18",
+			"dur": "4:12",
+			"nt": "1",
+			"NZVerb": false,
+			"eg": "ICE",
+			"trains": [
+				{
+					"tid": "23.0",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8000105",
+					"sn": "Frankfurt(Main)Hbf",
+					"d": "8010101",
+					"dn": "Erfurt Hbf",
+					"tn": "ICE  598",
+					"eg": "ICE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "14:13",
+						"m": "1522066380000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "16:26",
+						"m": "1522074360000"
+					},
+					"pd": "8",
+					"pa": "10",
+					"rp": false,
+					"re": false,
+					"sp": false
+				},
+				{
+					"tid": "23.1",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8010101",
+					"sn": "Erfurt Hbf",
+					"d": "8098160",
+					"dn": "Berlin Hbf (tief)",
+					"tn": "ICE  706",
+					"eg": "ICE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "16:31",
+						"m": "1522074660000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "18:25",
+						"m": "1522081500000"
+					},
+					"pd": "9",
+					"pa": "7",
+					"rp": false,
+					"re": false,
+					"sp": false
+				}
+			]
+		},
+		"45": {
+			"sel": false,
+			"dir": "OUTWARD",
+			"sid": "45",
+			"dt": "26.03.18",
+			"dur": "7:50",
+			"nt": "2",
+			"NZVerb": false,
+			"eg": "ICE",
+			"trains": [
+				{
+					"tid": "45.0",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8000105",
+					"sn": "Frankfurt(Main)Hbf",
+					"d": "8070003",
+					"dn": "F-Flughafen Fernbf.",
+					"tn": "ICE   22",
+					"eg": "ICE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "21:46",
+						"m": "1522093560000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "21:57",
+						"m": "1522094220000"
+					},
+					"pd": "6",
+					"pa": "Fern 7",
+					"rp": false,
+					"re": false,
+					"sp": false
+				},
+				{
+					"tid": "45.1",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8070003",
+					"sn": "F-Flughafen Fernbf.",
+					"d": "8000207",
+					"dn": "Köln Hbf",
+					"tn": "ICE  100",
+					"eg": "ICE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "22:09",
+						"m": "1522094940000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "23:05",
+						"m": "1522098300000"
+					},
+					"pd": "Fern 6",
+					"pa": "5",
+					"rp": false,
+					"re": false,
+					"sp": false
+				},
+				{
+					"tid": "45.2",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8000207",
+					"sn": "Köln Hbf",
+					"d": "8011160",
+					"dn": "Berlin Hbf",
+					"tn": "ICE  949",
+					"eg": "ICE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "23:15",
+						"m": "1522098900000"
+					},
+					"arr": {
+						"d": "27.03.18",
+						"t": "05:36",
+						"m": "1522121760000"
+					},
+					"pd": "2 A-C",
+					"pa": "11",
+					"rp": false,
+					"re": false,
+					"sp": false
+				}
+			]
+		},
+		"24": {
+			"sel": false,
+			"dir": "OUTWARD",
+			"sid": "24",
+			"dt": "26.03.18",
+			"dur": "4:16",
+			"nt": "0",
+			"NZVerb": false,
+			"eg": "ICE",
+			"trains": [
+				{
+					"tid": "24.0",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8000105",
+					"sn": "Frankfurt(Main)Hbf",
+					"d": "8098160",
+					"dn": "Berlin Hbf (tief)",
+					"tn": "ICE  598",
+					"eg": "ICE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "14:13",
+						"m": "1522066380000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "18:29",
+						"m": "1522081740000"
+					},
+					"pd": "8",
+					"pa": "6",
+					"rp": false,
+					"re": false,
+					"sp": false
+				}
+			]
+		},
+		"25": {
+			"sel": false,
+			"dir": "OUTWARD",
+			"sid": "25",
+			"dt": "26.03.18",
+			"dur": "3:56",
+			"nt": "0",
+			"NZVerb": false,
+			"eg": "ICE",
+			"trains": [
+				{
+					"tid": "25.0",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8000105",
+					"sn": "Frankfurt(Main)Hbf",
+					"d": "8098160",
+					"dn": "Berlin Hbf (tief)",
+					"tn": "ICE 1631",
+					"eg": "ICE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "15:02",
+						"m": "1522069320000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "18:58",
+						"m": "1522083480000"
+					},
+					"pd": "13",
+					"pa": "7",
+					"rp": false,
+					"re": false,
+					"sp": false
+				}
+			]
+		},
+		"26": {
+			"sel": false,
+			"dir": "OUTWARD",
+			"sid": "26",
+			"dt": "26.03.18",
+			"dur": "4:15",
+			"nt": "0",
+			"NZVerb": false,
+			"eg": "ICE",
+			"trains": [
+				{
+					"tid": "26.0",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8000105",
+					"sn": "Frankfurt(Main)Hbf",
+					"d": "8011160",
+					"dn": "Berlin Hbf",
+					"tn": "ICE  278",
+					"eg": "ICE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "15:13",
+						"m": "1522069980000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "19:28",
+						"m": "1522085280000"
+					},
+					"pd": "8",
+					"pa": "11",
+					"rp": false,
+					"re": false,
+					"sp": false
+				}
+			]
+		},
+		"27": {
+			"sel": false,
+			"dir": "OUTWARD",
+			"sid": "27",
+			"dt": "26.03.18",
+			"dur": "4:11",
+			"nt": "1",
+			"NZVerb": false,
+			"eg": "ICE",
+			"trains": [
+				{
+					"tid": "27.0",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8000105",
+					"sn": "Frankfurt(Main)Hbf",
+					"d": "8000152",
+					"dn": "Hannover Hbf",
+					"tn": "ICE   72",
+					"eg": "ICE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "15:58",
+						"m": "1522072680000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "18:17",
+						"m": "1522081020000"
+					},
+					"pd": "8",
+					"pa": "7",
+					"rp": false,
+					"re": false,
+					"sp": false
+				},
+				{
+					"tid": "27.1",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8000152",
+					"sn": "Hannover Hbf",
+					"d": "8098160",
+					"dn": "Berlin Hbf (tief)",
+					"tn": "ICE 1053",
+					"eg": "ICE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "18:31",
+						"m": "1522081860000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "20:09",
+						"m": "1522087740000"
+					},
+					"pd": "9",
+					"pa": "5 A - D",
+					"rp": false,
+					"re": false,
+					"sp": false
+				}
+			]
+		},
+		"28": {
+			"sel": false,
+			"dir": "OUTWARD",
+			"sid": "28",
+			"dt": "26.03.18",
+			"dur": "4:26",
+			"nt": "1",
+			"NZVerb": false,
+			"eg": "ICE",
+			"trains": [
+				{
+					"tid": "28.0",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8000105",
+					"sn": "Frankfurt(Main)Hbf",
+					"d": "8002041",
+					"dn": "Frankfurt(Main)Süd",
+					"tn": "RB 15552",
+					"eg": "RB",
+					"dep": {
+						"d": "26.03.18",
+						"t": "16:02",
+						"m": "1522072920000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "16:07",
+						"m": "1522073220000"
+					},
+					"pd": "10",
+					"pa": "6",
+					"rp": false,
+					"re": false,
+					"sp": false
+				},
+				{
+					"tid": "28.1",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8002041",
+					"sn": "Frankfurt(Main)Süd",
+					"d": "8011160",
+					"dn": "Berlin Hbf",
+					"tn": "ICE 1694",
+					"eg": "ICE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "16:20",
+						"m": "1522074000000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "20:28",
+						"m": "1522088880000"
+					},
+					"pd": "8",
+					"pa": "12",
+					"rp": false,
+					"re": false,
+					"sp": false
+				}
+			]
+		},
+		"29": {
+			"sel": false,
+			"dir": "OUTWARD",
+			"sid": "29",
+			"dt": "26.03.18",
+			"dur": "4:13",
+			"nt": "1",
+			"NZVerb": false,
+			"eg": "ICE",
+			"trains": [
+				{
+					"tid": "29.0",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8000105",
+					"sn": "Frankfurt(Main)Hbf",
+					"d": "8010101",
+					"dn": "Erfurt Hbf",
+					"tn": "ICE  596",
+					"eg": "ICE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "16:13",
+						"m": "1522073580000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "18:26",
+						"m": "1522081560000"
+					},
+					"pd": "9",
+					"pa": "10",
+					"rp": false,
+					"re": false,
+					"sp": false
+				},
+				{
+					"tid": "29.1",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8010101",
+					"sn": "Erfurt Hbf",
+					"d": "8098160",
+					"dn": "Berlin Hbf (tief)",
+					"tn": "ICE  704",
+					"eg": "ICE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "18:32",
+						"m": "1522081920000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "20:26",
+						"m": "1522088760000"
+					},
+					"pd": "9",
+					"pa": "7",
+					"rp": false,
+					"re": false,
+					"sp": false
+				}
+			]
+		},
+		"30": {
+			"sel": false,
+			"dir": "OUTWARD",
+			"sid": "30",
+			"dt": "26.03.18",
+			"dur": "4:16",
+			"nt": "0",
+			"NZVerb": false,
+			"eg": "ICE",
+			"trains": [
+				{
+					"tid": "30.0",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8000105",
+					"sn": "Frankfurt(Main)Hbf",
+					"d": "8098160",
+					"dn": "Berlin Hbf (tief)",
+					"tn": "ICE  596",
+					"eg": "ICE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "16:13",
+						"m": "1522073580000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "20:29",
+						"m": "1522088940000"
+					},
+					"pd": "9",
+					"pa": "6",
+					"rp": false,
+					"re": false,
+					"sp": false
+				}
+			]
+		},
+		"31": {
+			"sel": false,
+			"dir": "OUTWARD",
+			"sid": "31",
+			"dt": "26.03.18",
+			"dur": "3:53",
+			"nt": "0",
+			"NZVerb": false,
+			"eg": "ICE",
+			"trains": [
+				{
+					"tid": "31.0",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8000105",
+					"sn": "Frankfurt(Main)Hbf",
+					"d": "8098160",
+					"dn": "Berlin Hbf (tief)",
+					"tn": "ICE 1633",
+					"eg": "ICE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "17:02",
+						"m": "1522076520000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "20:55",
+						"m": "1522090500000"
+					},
+					"pd": "13",
+					"pa": "7",
+					"rp": false,
+					"re": false,
+					"sp": false
+				}
+			]
+		},
+		"10": {
+			"sel": false,
+			"dir": "OUTWARD",
+			"sid": "10",
+			"dt": "26.03.18",
+			"dur": "4:15",
+			"nt": "0",
+			"NZVerb": false,
+			"eg": "ICE",
+			"trains": [
+				{
+					"tid": "10.0",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8000105",
+					"sn": "Frankfurt(Main)Hbf",
+					"d": "8011160",
+					"dn": "Berlin Hbf",
+					"tn": "ICE  374",
+					"eg": "ICE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "09:13",
+						"m": "1522048380000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "13:28",
+						"m": "1522063680000"
+					},
+					"pd": "8",
+					"pa": "11",
+					"rp": false,
+					"re": false,
+					"sp": false
+				}
+			]
+		},
+		"32": {
+			"sel": false,
+			"dir": "OUTWARD",
+			"sid": "32",
+			"dt": "26.03.18",
+			"dur": "4:15",
+			"nt": "0",
+			"NZVerb": false,
+			"eg": "ICE",
+			"trains": [
+				{
+					"tid": "32.0",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8000105",
+					"sn": "Frankfurt(Main)Hbf",
+					"d": "8011160",
+					"dn": "Berlin Hbf",
+					"tn": "ICE  276",
+					"eg": "ICE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "17:13",
+						"m": "1522077180000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "21:28",
+						"m": "1522092480000"
+					},
+					"pd": "8",
+					"pa": "12",
+					"rp": false,
+					"re": false,
+					"sp": false
+				}
+			]
+		},
+		"11": {
+			"sel": false,
+			"dir": "OUTWARD",
+			"sid": "11",
+			"dt": "26.03.18",
+			"dur": "4:11",
+			"nt": "1",
+			"NZVerb": false,
+			"eg": "ICE",
+			"trains": [
+				{
+					"tid": "11.0",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8000105",
+					"sn": "Frankfurt(Main)Hbf",
+					"d": "8000152",
+					"dn": "Hannover Hbf",
+					"tn": "ICE   78",
+					"eg": "ICE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "09:58",
+						"m": "1522051080000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "12:17",
+						"m": "1522059420000"
+					},
+					"pd": "8",
+					"pa": "8",
+					"rp": false,
+					"re": false,
+					"sp": false
+				},
+				{
+					"tid": "11.1",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8000152",
+					"sn": "Hannover Hbf",
+					"d": "8098160",
+					"dn": "Berlin Hbf (tief)",
+					"tn": "ICE  847",
+					"eg": "ICE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "12:31",
+						"m": "1522060260000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "14:09",
+						"m": "1522066140000"
+					},
+					"pd": "9",
+					"pa": "6 D - G",
+					"rp": false,
+					"re": false,
+					"sp": false
+				}
+			]
+		},
+		"33": {
+			"sel": false,
+			"dir": "OUTWARD",
+			"sid": "33",
+			"dt": "26.03.18",
+			"dur": "4:31",
+			"nt": "1",
+			"NZVerb": false,
+			"eg": "ICE",
+			"trains": [
+				{
+					"tid": "33.0",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8000105",
+					"sn": "Frankfurt(Main)Hbf",
+					"d": "8010101",
+					"dn": "Erfurt Hbf",
+					"tn": "ICE 1655",
+					"eg": "ICE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "17:20",
+						"m": "1522077600000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "19:38",
+						"m": "1522085880000"
+					},
+					"pd": "9",
+					"pa": "9",
+					"rp": false,
+					"re": false,
+					"sp": false
+				},
+				{
+					"tid": "33.1",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8010101",
+					"sn": "Erfurt Hbf",
+					"d": "8098160",
+					"dn": "Berlin Hbf (tief)",
+					"tn": "ICE 1000",
+					"eg": "ICE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "20:11",
+						"m": "1522087860000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "21:51",
+						"m": "1522093860000"
+					},
+					"pd": "2",
+					"pa": "6",
+					"rp": false,
+					"re": false,
+					"sp": false
+				}
+			]
+		},
+		"12": {
+			"sel": false,
+			"dir": "OUTWARD",
+			"sid": "12",
+			"dt": "26.03.18",
+			"dur": "4:09",
+			"nt": "1",
+			"NZVerb": false,
+			"eg": "ICE",
+			"trains": [
+				{
+					"tid": "12.0",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8000105",
+					"sn": "Frankfurt(Main)Hbf",
+					"d": "8010101",
+					"dn": "Erfurt Hbf",
+					"tn": "ICE  692",
+					"eg": "ICE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "10:14",
+						"m": "1522052040000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "12:26",
+						"m": "1522059960000"
+					},
+					"pd": "9",
+					"pa": "10",
+					"rp": false,
+					"re": false,
+					"sp": false
+				},
+				{
+					"tid": "12.1",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8010101",
+					"sn": "Erfurt Hbf",
+					"d": "8098160",
+					"dn": "Berlin Hbf (tief)",
+					"tn": "ICE  800",
+					"eg": "ICE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "12:31",
+						"m": "1522060260000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "14:23",
+						"m": "1522066980000"
+					},
+					"pd": "9",
+					"pa": "7",
+					"rp": false,
+					"re": false,
+					"sp": false
+				}
+			]
+		},
+		"34": {
+			"sel": false,
+			"dir": "OUTWARD",
+			"sid": "34",
+			"dt": "26.03.18",
+			"dur": "4:22",
+			"nt": "1",
+			"NZVerb": false,
+			"eg": "ICE",
+			"trains": [
+				{
+					"tid": "34.0",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8000105",
+					"sn": "Frankfurt(Main)Hbf",
+					"d": "8000152",
+					"dn": "Hannover Hbf",
+					"tn": "ICE   70",
+					"eg": "ICE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "17:58",
+						"m": "1522079880000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "20:17",
+						"m": "1522088220000"
+					},
+					"pd": "8",
+					"pa": "8",
+					"rp": false,
+					"re": false,
+					"sp": false
+				},
+				{
+					"tid": "34.1",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8000152",
+					"sn": "Hannover Hbf",
+					"d": "8098160",
+					"dn": "Berlin Hbf (tief)",
+					"tn": "ICE 1055",
+					"eg": "ICE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "20:31",
+						"m": "1522089060000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "22:20",
+						"m": "1522095600000"
+					},
+					"pd": "9",
+					"pa": "5 A - D",
+					"rp": false,
+					"re": false,
+					"sp": false
+				}
+			]
+		},
+		"13": {
+			"sel": false,
+			"dir": "OUTWARD",
+			"sid": "13",
+			"dt": "26.03.18",
+			"dur": "4:16",
+			"nt": "0",
+			"NZVerb": false,
+			"eg": "ICE",
+			"trains": [
+				{
+					"tid": "13.0",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8000105",
+					"sn": "Frankfurt(Main)Hbf",
+					"d": "8098160",
+					"dn": "Berlin Hbf (tief)",
+					"tn": "ICE  692",
+					"eg": "ICE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "10:14",
+						"m": "1522052040000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "14:30",
+						"m": "1522067400000"
+					},
+					"pd": "9",
+					"pa": "6",
+					"rp": false,
+					"re": false,
+					"sp": false
+				}
+			]
+		},
+		"35": {
+			"sel": false,
+			"dir": "OUTWARD",
+			"sid": "35",
+			"dt": "26.03.18",
+			"dur": "4:10",
+			"nt": "1",
+			"NZVerb": false,
+			"eg": "ICE",
+			"trains": [
+				{
+					"tid": "35.0",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8000105",
+					"sn": "Frankfurt(Main)Hbf",
+					"d": "8010101",
+					"dn": "Erfurt Hbf",
+					"tn": "ICE  594",
+					"eg": "ICE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "18:14",
+						"m": "1522080840000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "20:26",
+						"m": "1522088760000"
+					},
+					"pd": "9",
+					"pa": "10",
+					"rp": false,
+					"re": false,
+					"sp": false
+				},
+				{
+					"tid": "35.1",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8010101",
+					"sn": "Erfurt Hbf",
+					"d": "8098160",
+					"dn": "Berlin Hbf (tief)",
+					"tn": "ICE  702",
+					"eg": "ICE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "20:31",
+						"m": "1522089060000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "22:24",
+						"m": "1522095840000"
+					},
+					"pd": "9",
+					"pa": "7",
+					"rp": false,
+					"re": false,
+					"sp": false
+				}
+			]
+		},
+		"14": {
+			"sel": false,
+			"dir": "OUTWARD",
+			"sid": "14",
+			"dt": "26.03.18",
+			"dur": "5:02",
+			"nt": "2",
+			"NZVerb": false,
+			"eg": "ICE",
+			"trains": [
+				{
+					"tid": "14.0",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8000105",
+					"sn": "Frankfurt(Main)Hbf",
+					"d": "8000115",
+					"dn": "Fulda",
+					"tn": "RE  4510",
+					"eg": "RE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "10:26",
+						"m": "1522052760000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "11:49",
+						"m": "1522057740000"
+					},
+					"pd": "6",
+					"pa": "1",
+					"rp": false,
+					"re": false,
+					"sp": false
+				},
+				{
+					"tid": "14.1",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8000115",
+					"sn": "Fulda",
+					"d": "8000128",
+					"dn": "Göttingen",
+					"tn": "ICE 1180",
+					"eg": "ICE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "12:03",
+						"m": "1522058580000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "12:54",
+						"m": "1522061640000"
+					},
+					"pd": "6",
+					"pa": "9",
+					"rp": false,
+					"re": false,
+					"sp": false
+				},
+				{
+					"tid": "14.2",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8000128",
+					"sn": "Göttingen",
+					"d": "8011160",
+					"dn": "Berlin Hbf",
+					"tn": "ICE  372",
+					"eg": "ICE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "13:06",
+						"m": "1522062360000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "15:28",
+						"m": "1522070880000"
+					},
+					"pd": "9",
+					"pa": "11",
+					"rp": false,
+					"re": false,
+					"sp": false
+				}
+			]
+		},
+		"36": {
+			"sel": false,
+			"dir": "OUTWARD",
+			"sid": "36",
+			"dt": "26.03.18",
+			"dur": "4:16",
+			"nt": "0",
+			"NZVerb": false,
+			"eg": "ICE",
+			"trains": [
+				{
+					"tid": "36.0",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8000105",
+					"sn": "Frankfurt(Main)Hbf",
+					"d": "8098160",
+					"dn": "Berlin Hbf (tief)",
+					"tn": "ICE  594",
+					"eg": "ICE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "18:14",
+						"m": "1522080840000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "22:30",
+						"m": "1522096200000"
+					},
+					"pd": "9",
+					"pa": "6",
+					"rp": false,
+					"re": false,
+					"sp": false
+				}
+			]
+		},
+		"15": {
+			"sel": false,
+			"dir": "OUTWARD",
+			"sid": "15",
+			"dt": "26.03.18",
+			"dur": "4:09",
+			"nt": "1",
+			"NZVerb": false,
+			"eg": "ICE",
+			"trains": [
+				{
+					"tid": "15.0",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8000105",
+					"sn": "Frankfurt(Main)Hbf",
+					"d": "8000152",
+					"dn": "Hannover Hbf",
+					"tn": "ICE  770",
+					"eg": "ICE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "10:58",
+						"m": "1522054680000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "13:17",
+						"m": "1522063020000"
+					},
+					"pd": "8",
+					"pa": "7",
+					"rp": false,
+					"re": false,
+					"sp": false
+				},
+				{
+					"tid": "15.1",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8000152",
+					"sn": "Hannover Hbf",
+					"d": "8098160",
+					"dn": "Berlin Hbf (tief)",
+					"tn": "ICE  547",
+					"eg": "ICE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "13:31",
+						"m": "1522063860000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "15:07",
+						"m": "1522069620000"
+					},
+					"pd": "9",
+					"pa": "5 D - G",
+					"rp": false,
+					"re": false,
+					"sp": false
+				}
+			]
+		},
+		"37": {
+			"sel": false,
+			"dir": "OUTWARD",
+			"sid": "37",
+			"dt": "26.03.18",
+			"dur": "5:06",
+			"nt": "2",
+			"NZVerb": false,
+			"eg": "ICE",
+			"trains": [
+				{
+					"tid": "37.0",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8000105",
+					"sn": "Frankfurt(Main)Hbf",
+					"d": "8000115",
+					"dn": "Fulda",
+					"tn": "RE  4526",
+					"eg": "RE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "18:26",
+						"m": "1522081560000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "19:49",
+						"m": "1522086540000"
+					},
+					"pd": "8",
+					"pa": "1",
+					"rp": false,
+					"re": false,
+					"sp": false
+				},
+				{
+					"tid": "37.1",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8000115",
+					"sn": "Fulda",
+					"d": "8000128",
+					"dn": "Göttingen",
+					"tn": "ICE  582",
+					"eg": "ICE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "20:03",
+						"m": "1522087380000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "20:54",
+						"m": "1522090440000"
+					},
+					"pd": "6",
+					"pa": "9",
+					"rp": false,
+					"re": false,
+					"sp": false
+				},
+				{
+					"tid": "37.2",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8000128",
+					"sn": "Göttingen",
+					"d": "8098160",
+					"dn": "Berlin Hbf (tief)",
+					"tn": "IC  1274",
+					"eg": "IC",
+					"dep": {
+						"d": "26.03.18",
+						"t": "21:05",
+						"m": "1522091100000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "23:32",
+						"m": "1522099920000"
+					},
+					"pd": "9",
+					"rp": false,
+					"re": false,
+					"sp": false
+				}
+			]
+		},
+		"16": {
+			"sel": false,
+			"dir": "OUTWARD",
+			"sid": "16",
+			"dt": "26.03.18",
+			"dur": "4:15",
+			"nt": "0",
+			"NZVerb": false,
+			"eg": "ICE",
+			"trains": [
+				{
+					"tid": "16.0",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8000105",
+					"sn": "Frankfurt(Main)Hbf",
+					"d": "8011160",
+					"dn": "Berlin Hbf",
+					"tn": "ICE  372",
+					"eg": "ICE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "11:13",
+						"m": "1522055580000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "15:28",
+						"m": "1522070880000"
+					},
+					"pd": "9",
+					"pa": "11",
+					"rp": false,
+					"re": false,
+					"sp": false
+				}
+			]
+		},
+		"38": {
+			"sel": false,
+			"dir": "OUTWARD",
+			"sid": "38",
+			"dt": "26.03.18",
+			"dur": "4:10",
+			"nt": "1",
+			"NZVerb": false,
+			"eg": "ICE",
+			"trains": [
+				{
+					"tid": "38.0",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8000105",
+					"sn": "Frankfurt(Main)Hbf",
+					"d": "8000152",
+					"dn": "Hannover Hbf",
+					"tn": "ICE  572",
+					"eg": "ICE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "18:58",
+						"m": "1522083480000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "21:19",
+						"m": "1522091940000"
+					},
+					"pd": "8",
+					"pa": "7",
+					"rp": false,
+					"re": false,
+					"sp": false
+				},
+				{
+					"tid": "38.1",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8000152",
+					"sn": "Hannover Hbf",
+					"d": "8098160",
+					"dn": "Berlin Hbf (tief)",
+					"tn": "ICE  645",
+					"eg": "ICE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "21:31",
+						"m": "1522092660000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "23:08",
+						"m": "1522098480000"
+					},
+					"pd": "9",
+					"pa": "7 D - G",
+					"rp": false,
+					"re": false,
+					"sp": false
+				}
+			]
+		},
+		"17": {
+			"sel": false,
+			"dir": "OUTWARD",
+			"sid": "17",
+			"dt": "26.03.18",
+			"dur": "4:32",
+			"nt": "1",
+			"NZVerb": false,
+			"eg": "ICE",
+			"trains": [
+				{
+					"tid": "17.0",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8000105",
+					"sn": "Frankfurt(Main)Hbf",
+					"d": "8010101",
+					"dn": "Erfurt Hbf",
+					"tn": "ICE 1559",
+					"eg": "ICE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "11:19",
+						"m": "1522055940000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "13:38",
+						"m": "1522064280000"
+					},
+					"pd": "6",
+					"pa": "9",
+					"rp": false,
+					"re": false,
+					"sp": false
+				},
+				{
+					"tid": "17.1",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8010101",
+					"sn": "Erfurt Hbf",
+					"d": "8098160",
+					"dn": "Berlin Hbf (tief)",
+					"tn": "ICE 1004",
+					"eg": "ICE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "14:11",
+						"m": "1522066260000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "15:51",
+						"m": "1522072260000"
+					},
+					"pd": "2",
+					"pa": "7",
+					"rp": false,
+					"re": false,
+					"sp": false
+				}
+			]
+		},
+		"39": {
+			"sel": false,
+			"dir": "OUTWARD",
+			"sid": "39",
+			"dt": "26.03.18",
+			"dur": "4:19",
+			"nt": "0",
+			"NZVerb": false,
+			"eg": "IC",
+			"trains": [
+				{
+					"tid": "39.0",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8000105",
+					"sn": "Frankfurt(Main)Hbf",
+					"d": "8098160",
+					"dn": "Berlin Hbf (tief)",
+					"tn": "IC  1274",
+					"eg": "IC",
+					"dep": {
+						"d": "26.03.18",
+						"t": "19:13",
+						"m": "1522084380000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "23:32",
+						"m": "1522099920000"
+					},
+					"pd": "9",
+					"rp": false,
+					"re": false,
+					"sp": false
+				}
+			]
+		},
+		"18": {
+			"sel": false,
+			"dir": "OUTWARD",
+			"sid": "18",
+			"dt": "26.03.18",
+			"dur": "4:11",
+			"nt": "1",
+			"NZVerb": false,
+			"eg": "ICE",
+			"trains": [
+				{
+					"tid": "18.0",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8000105",
+					"sn": "Frankfurt(Main)Hbf",
+					"d": "8000152",
+					"dn": "Hannover Hbf",
+					"tn": "ICE   76",
+					"eg": "ICE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "11:58",
+						"m": "1522058280000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "14:17",
+						"m": "1522066620000"
+					},
+					"pd": "8",
+					"pa": "7",
+					"rp": false,
+					"re": false,
+					"sp": false
+				},
+				{
+					"tid": "18.1",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8000152",
+					"sn": "Hannover Hbf",
+					"d": "8098160",
+					"dn": "Berlin Hbf (tief)",
+					"tn": "ICE  849",
+					"eg": "ICE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "14:31",
+						"m": "1522067460000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "16:09",
+						"m": "1522073340000"
+					},
+					"pd": "9",
+					"pa": "5 D - G",
+					"rp": false,
+					"re": false,
+					"sp": false
+				}
+			]
+		},
+		"19": {
+			"sel": false,
+			"dir": "OUTWARD",
+			"sid": "19",
+			"dt": "26.03.18",
+			"dur": "4:17",
+			"nt": "0",
+			"NZVerb": false,
+			"eg": "ICE",
+			"trains": [
+				{
+					"tid": "19.0",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8000105",
+					"sn": "Frankfurt(Main)Hbf",
+					"d": "8098160",
+					"dn": "Berlin Hbf (tief)",
+					"tn": "ICE  690",
+					"eg": "ICE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "12:14",
+						"m": "1522059240000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "16:31",
+						"m": "1522074660000"
+					},
+					"pd": "8",
+					"pa": "7",
+					"rp": false,
+					"re": false,
+					"sp": false
+				}
+			]
+		},
+		"0": {
+			"sel": false,
+			"dir": "OUTWARD",
+			"sid": "0",
+			"dt": "26.03.18",
+			"dur": "5:09",
+			"nt": "0",
+			"NZVerb": false,
+			"eg": "ICE",
+			"trains": [
+				{
+					"tid": "0.0",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8000105",
+					"sn": "Frankfurt(Main)Hbf",
+					"d": "8098160",
+					"dn": "Berlin Hbf (tief)",
+					"tn": "ICE 1718",
+					"eg": "ICE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "02:49",
+						"m": "1522025340000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "07:58",
+						"m": "1522043880000"
+					},
+					"pd": "9",
+					"pa": "8",
+					"rp": false,
+					"re": false,
+					"sp": false
+				}
+			]
+		},
+		"1": {
+			"sel": false,
+			"dir": "OUTWARD",
+			"sid": "1",
+			"dt": "26.03.18",
+			"dur": "4:21",
+			"nt": "1",
+			"NZVerb": false,
+			"eg": "ICE",
+			"trains": [
+				{
+					"tid": "1.0",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8000105",
+					"sn": "Frankfurt(Main)Hbf",
+					"d": "8000128",
+					"dn": "Göttingen",
+					"tn": "ICE 1088",
+					"eg": "ICE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "05:06",
+						"m": "1522033560000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "06:54",
+						"m": "1522040040000"
+					},
+					"pd": "7",
+					"pa": "9",
+					"rp": false,
+					"re": false,
+					"sp": false
+				},
+				{
+					"tid": "1.1",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8000128",
+					"sn": "Göttingen",
+					"d": "8011160",
+					"dn": "Berlin Hbf",
+					"tn": "ICE  876",
+					"eg": "ICE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "07:06",
+						"m": "1522040760000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "09:27",
+						"m": "1522049220000"
+					},
+					"pd": "9",
+					"pa": "12",
+					"rp": false,
+					"re": false,
+					"sp": false
+				}
+			]
+		},
+		"2": {
+			"sel": false,
+			"dir": "OUTWARD",
+			"sid": "2",
+			"dt": "26.03.18",
+			"dur": "3:56",
+			"nt": "0",
+			"NZVerb": false,
+			"eg": "ICE",
+			"trains": [
+				{
+					"tid": "2.0",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8000105",
+					"sn": "Frankfurt(Main)Hbf",
+					"d": "8011160",
+					"dn": "Berlin Hbf",
+					"tn": "ICE 1598",
+					"eg": "ICE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "05:58",
+						"m": "1522036680000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "09:54",
+						"m": "1522050840000"
+					},
+					"pd": "13",
+					"pa": "11",
+					"rp": false,
+					"re": false,
+					"sp": false
+				}
+			]
+		},
+		"3": {
+			"sel": false,
+			"dir": "OUTWARD",
+			"sid": "3",
+			"dt": "26.03.18",
+			"dur": "4:16",
+			"nt": "0",
+			"NZVerb": false,
+			"eg": "ICE",
+			"trains": [
+				{
+					"tid": "3.0",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8000105",
+					"sn": "Frankfurt(Main)Hbf",
+					"d": "8098160",
+					"dn": "Berlin Hbf (tief)",
+					"tn": "ICE  696",
+					"eg": "ICE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "06:14",
+						"m": "1522037640000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "10:30",
+						"m": "1522053000000"
+					},
+					"pd": "9",
+					"pa": "7",
+					"rp": false,
+					"re": false,
+					"sp": false
+				}
+			]
+		},
+		"4": {
+			"sel": false,
+			"dir": "OUTWARD",
+			"sid": "4",
+			"dt": "26.03.18",
+			"dur": "3:53",
+			"nt": "0",
+			"NZVerb": false,
+			"eg": "ICE",
+			"trains": [
+				{
+					"tid": "4.0",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8000105",
+					"sn": "Frankfurt(Main)Hbf",
+					"d": "8098160",
+					"dn": "Berlin Hbf (tief)",
+					"tn": "ICE 1533",
+					"eg": "ICE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "07:02",
+						"m": "1522040520000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "10:55",
+						"m": "1522054500000"
+					},
+					"pd": "10",
+					"pa": "7",
+					"rp": false,
+					"re": false,
+					"sp": false
+				}
+			]
+		},
+		"5": {
+			"sel": false,
+			"dir": "OUTWARD",
+			"sid": "5",
+			"dt": "26.03.18",
+			"dur": "4:14",
+			"nt": "0",
+			"NZVerb": false,
+			"eg": "ICE",
+			"trains": [
+				{
+					"tid": "5.0",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8000105",
+					"sn": "Frankfurt(Main)Hbf",
+					"d": "8011160",
+					"dn": "Berlin Hbf",
+					"tn": "ICE  874",
+					"eg": "ICE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "07:14",
+						"m": "1522041240000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "11:28",
+						"m": "1522056480000"
+					},
+					"pd": "8",
+					"pa": "11",
+					"rp": false,
+					"re": false,
+					"sp": false
+				}
+			]
+		},
+		"6": {
+			"sel": false,
+			"dir": "OUTWARD",
+			"sid": "6",
+			"dt": "26.03.18",
+			"dur": "4:11",
+			"nt": "1",
+			"NZVerb": false,
+			"eg": "ICE",
+			"trains": [
+				{
+					"tid": "6.0",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8000105",
+					"sn": "Frankfurt(Main)Hbf",
+					"d": "8000152",
+					"dn": "Hannover Hbf",
+					"tn": "ICE  674",
+					"eg": "ICE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "07:58",
+						"m": "1522043880000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "10:17",
+						"m": "1522052220000"
+					},
+					"pd": "8",
+					"pa": "7",
+					"rp": false,
+					"re": false,
+					"sp": false
+				},
+				{
+					"tid": "6.1",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8000152",
+					"sn": "Hannover Hbf",
+					"d": "8098160",
+					"dn": "Berlin Hbf (tief)",
+					"tn": "ICE  845",
+					"eg": "ICE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "10:31",
+						"m": "1522053060000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "12:09",
+						"m": "1522058940000"
+					},
+					"pd": "9",
+					"pa": "5 D - G",
+					"rp": false,
+					"re": false,
+					"sp": false
+				}
+			]
+		},
+		"7": {
+			"sel": false,
+			"dir": "OUTWARD",
+			"sid": "7",
+			"dt": "26.03.18",
+			"dur": "4:09",
+			"nt": "1",
+			"NZVerb": false,
+			"eg": "ICE",
+			"trains": [
+				{
+					"tid": "7.0",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8000105",
+					"sn": "Frankfurt(Main)Hbf",
+					"d": "8010101",
+					"dn": "Erfurt Hbf",
+					"tn": "ICE  694",
+					"eg": "ICE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "08:14",
+						"m": "1522044840000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "10:26",
+						"m": "1522052760000"
+					},
+					"pd": "9",
+					"pa": "10",
+					"rp": false,
+					"re": false,
+					"sp": false
+				},
+				{
+					"tid": "7.1",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8010101",
+					"sn": "Erfurt Hbf",
+					"d": "8098160",
+					"dn": "Berlin Hbf (tief)",
+					"tn": "ICE  802",
+					"eg": "ICE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "10:31",
+						"m": "1522053060000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "12:23",
+						"m": "1522059780000"
+					},
+					"pd": "9",
+					"pa": "7",
+					"rp": false,
+					"re": false,
+					"sp": false
+				}
+			]
+		},
+		"8": {
+			"sel": false,
+			"dir": "OUTWARD",
+			"sid": "8",
+			"dt": "26.03.18",
+			"dur": "4:16",
+			"nt": "0",
+			"NZVerb": false,
+			"eg": "ICE",
+			"trains": [
+				{
+					"tid": "8.0",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8000105",
+					"sn": "Frankfurt(Main)Hbf",
+					"d": "8098160",
+					"dn": "Berlin Hbf (tief)",
+					"tn": "ICE  694",
+					"eg": "ICE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "08:14",
+						"m": "1522044840000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "12:30",
+						"m": "1522060200000"
+					},
+					"pd": "9",
+					"pa": "5",
+					"rp": false,
+					"re": false,
+					"sp": false
+				}
+			]
+		},
+		"9": {
+			"sel": false,
+			"dir": "OUTWARD",
+			"sid": "9",
+			"dt": "26.03.18",
+			"dur": "3:53",
+			"nt": "0",
+			"NZVerb": false,
+			"eg": "ICE",
+			"trains": [
+				{
+					"tid": "9.0",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8000105",
+					"sn": "Frankfurt(Main)Hbf",
+					"d": "8098160",
+					"dn": "Berlin Hbf (tief)",
+					"tn": "ICE 1535",
+					"eg": "ICE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "09:02",
+						"m": "1522047720000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "12:55",
+						"m": "1522061700000"
+					},
+					"pd": "13",
+					"pa": "7",
+					"rp": false,
+					"re": false,
+					"sp": false
+				}
+			]
+		},
+		"40": {
+			"sel": false,
+			"dir": "OUTWARD",
+			"sid": "40",
+			"dt": "26.03.18",
+			"dur": "5:10",
+			"nt": "1",
+			"NZVerb": false,
+			"eg": "ICE",
+			"trains": [
+				{
+					"tid": "40.0",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8000105",
+					"sn": "Frankfurt(Main)Hbf",
+					"d": "8010101",
+					"dn": "Erfurt Hbf",
+					"tn": "ICE 1657",
+					"eg": "ICE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "19:19",
+						"m": "1522084740000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "21:38",
+						"m": "1522093080000"
+					},
+					"pd": "6",
+					"pa": "9",
+					"rp": false,
+					"re": false,
+					"sp": false
+				},
+				{
+					"tid": "40.1",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8010101",
+					"sn": "Erfurt Hbf",
+					"d": "8098160",
+					"dn": "Berlin Hbf (tief)",
+					"tn": "ICE  700",
+					"eg": "ICE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "22:40",
+						"m": "1522096800000"
+					},
+					"arr": {
+						"d": "27.03.18",
+						"t": "00:29",
+						"m": "1522103340000"
+					},
+					"pd": "1",
+					"pa": "6",
+					"rp": false,
+					"re": false,
+					"sp": false
+				}
+			]
+		},
+		"41": {
+			"sel": false,
+			"dir": "OUTWARD",
+			"sid": "41",
+			"dt": "26.03.18",
+			"dur": "4:24",
+			"nt": "0",
+			"NZVerb": false,
+			"eg": "ICE",
+			"trains": [
+				{
+					"tid": "41.0",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8000105",
+					"sn": "Frankfurt(Main)Hbf",
+					"d": "8011160",
+					"dn": "Berlin Hbf",
+					"tn": "ICE 1690",
+					"eg": "ICE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "20:18",
+						"m": "1522088280000"
+					},
+					"arr": {
+						"d": "27.03.18",
+						"t": "00:42",
+						"m": "1522104120000"
+					},
+					"pd": "7",
+					"pa": "11",
+					"rp": false,
+					"re": false,
+					"sp": false
+				}
+			]
+		},
+		"20": {
+			"sel": false,
+			"dir": "OUTWARD",
+			"sid": "20",
+			"dt": "26.03.18",
+			"dur": "3:56",
+			"nt": "0",
+			"NZVerb": false,
+			"eg": "ICE",
+			"trains": [
+				{
+					"tid": "20.0",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8000105",
+					"sn": "Frankfurt(Main)Hbf",
+					"d": "8098160",
+					"dn": "Berlin Hbf (tief)",
+					"tn": "ICE 1539",
+					"eg": "ICE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "13:02",
+						"m": "1522062120000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "16:58",
+						"m": "1522076280000"
+					},
+					"pd": "13",
+					"pa": "7",
+					"rp": false,
+					"re": false,
+					"sp": false
+				}
+			]
+		},
+		"42": {
+			"sel": false,
+			"dir": "OUTWARD",
+			"sid": "42",
+			"dt": "26.03.18",
+			"dur": "8:56",
+			"nt": "2",
+			"NZVerb": false,
+			"eg": "ICE",
+			"trains": [
+				{
+					"tid": "42.0",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8000105",
+					"sn": "Frankfurt(Main)Hbf",
+					"d": "8000240",
+					"dn": "Mainz Hbf",
+					"tn": "ICE 1594",
+					"eg": "ICE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "20:40",
+						"m": "1522089600000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "21:15",
+						"m": "1522091700000"
+					},
+					"pd": "10",
+					"pa": "2a/b",
+					"rp": false,
+					"re": false,
+					"sp": false
+				},
+				{
+					"tid": "42.1",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8000240",
+					"sn": "Mainz Hbf",
+					"d": "8000207",
+					"dn": "Köln Hbf",
+					"tn": "IC  2210",
+					"eg": "IC",
+					"dep": {
+						"d": "26.03.18",
+						"t": "21:20",
+						"m": "1522092000000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "23:05",
+						"m": "1522098300000"
+					},
+					"pd": "3a/b",
+					"pa": "3 A-C",
+					"rp": false,
+					"re": false,
+					"sp": false
+				},
+				{
+					"tid": "42.2",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8000207",
+					"sn": "Köln Hbf",
+					"d": "8011160",
+					"dn": "Berlin Hbf",
+					"tn": "ICE  949",
+					"eg": "ICE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "23:15",
+						"m": "1522098900000"
+					},
+					"arr": {
+						"d": "27.03.18",
+						"t": "05:36",
+						"m": "1522121760000"
+					},
+					"pd": "2 A-C",
+					"pa": "11",
+					"rp": false,
+					"re": false,
+					"sp": false
+				}
+			]
+		},
+		"21": {
+			"sel": false,
+			"dir": "OUTWARD",
+			"sid": "21",
+			"dt": "26.03.18",
+			"dur": "4:15",
+			"nt": "0",
+			"NZVerb": false,
+			"eg": "ICE",
+			"trains": [
+				{
+					"tid": "21.0",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8000105",
+					"sn": "Frankfurt(Main)Hbf",
+					"d": "8011160",
+					"dn": "Berlin Hbf",
+					"tn": "ICE  370",
+					"eg": "ICE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "13:13",
+						"m": "1522062780000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "17:28",
+						"m": "1522078080000"
+					},
+					"pd": "9",
+					"pa": "11",
+					"rp": false,
+					"re": false,
+					"sp": false
+				}
+			]
+		},
+		"43": {
+			"sel": false,
+			"dir": "OUTWARD",
+			"sid": "43",
+			"dt": "26.03.18",
+			"dur": "8:19",
+			"nt": "1",
+			"NZVerb": false,
+			"eg": "ICE",
+			"trains": [
+				{
+					"tid": "43.0",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8000105",
+					"sn": "Frankfurt(Main)Hbf",
+					"d": "8000080",
+					"dn": "Dortmund Hbf",
+					"tn": "ICE  526",
+					"eg": "ICE",
+					"dep": {
+						"d": "26.03.18",
+						"t": "21:17",
+						"m": "1522091820000"
+					},
+					"arr": {
+						"d": "26.03.18",
+						"t": "23:26",
+						"m": "1522099560000"
+					},
+					"pd": "7",
+					"pa": "8",
+					"rp": false,
+					"re": false,
+					"sp": false
+				},
+				{
+					"tid": "43.1",
+					"lt": "Transport",
+					"ltShort": "T",
+					"s": "8000080",
+					"sn": "Dortmund Hbf",
+					"d": "8011160",
+					"dn": "Berlin Hbf",
+					"tn": "ICE  949",
+					"eg": "ICE",
+					"dep": {
+						"d": "27.03.18",
+						"t": "00:32",
+						"m": "1522103520000"
+					},
+					"arr": {
+						"d": "27.03.18",
+						"t": "05:36",
+						"m": "1522121760000"
+					},
+					"pd": "8",
+					"pa": "11",
+					"rp": false,
+					"re": false,
+					"sp": false
+				}
+			]
+		}
+	},
+	"peTexte": {
+		"7001": {
+			"name": "Flexpreis",
+			"hinweis": "You can select any train you want. It is possible to combine use of a BahnCard 25/50 and discount of 25/50% on the section of the route operated by DB.\u003cbr/\u003eExchange / Refund before 1st day of validity free, then 19,00 EUR."
+		},
+		"72660": {
+			"name": "Sparpreis",
+			"hinweis": "Low prices subject to availability. You can only use the trains indicated on your ticket. However, you can use any local trains (i.e. RE, RB, S). It is possible to combine use of a BahnCard 25/50 and discount of 25%.\u003cbr/\u003eExchange / Refund before 1st day of validity 19,00 EUR, then excluded."
+		}
+	},
+	"sbf": [
+		{
+			"nummer": "8000105",
+			"name": "Frankfurt(Main)Hbf"
+		}
+	],
+	"dbf": [
+		{
+			"nummer": "8011160",
+			"name": "Berlin Hbf"
+		},
+		{
+			"nummer": "8098160",
+			"name": "Berlin Hbf (tief)"
+		}
+	],
+	"durs": {
+		"min": "3:53",
+		"max": "9:11"
+	},
+	"prices": {
+		"min": "2990",
+		"max": "15000"
+	},
+	"sp": true,
+	"device": "HANDY"
+}
