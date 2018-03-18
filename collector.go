@@ -243,7 +243,7 @@ func main() {
 			for _, o := range r.Offers {
 				for _, sid := range o.Sids {
 					sc := NewSlimConnection(&o, r.Connections[sid])
-					fmt.Printf("%d,%d,%d,%d,%d,%.2f,%s,%s,%s,%s,%d",
+					fmt.Printf("%d,%d,%d,%d,%d,%.2f,%s,%s,%s,%s,%d\n",
 						stations[city[0]],
 						stations[city[1]],
 						sc.dep,
